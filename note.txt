@@ -1,0 +1,2 @@
+git pull origin branchname --allow-unrelated-histories
+git config --global core.autocrlf true
